@@ -1,4 +1,3 @@
-
 function forLoop(array){
 
   for(Let i=1;i<25;i++){
